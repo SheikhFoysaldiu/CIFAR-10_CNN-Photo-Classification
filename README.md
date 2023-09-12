@@ -1,5 +1,5 @@
 # CIFAR_10_CNN_Photo_Classification
-Making CNN For Classifying - Airplane,AutoMobile,Bird,Cart,Deer,Frog,Dog,Horse,Ship,Truck. I am using CIFAR-10 Dataset From Keras Dataset
+Making CNN For Classifying - Airplane, AutoMobile, Bird, Cart, Deer, Frog, Dog, Horse, Ship, Truck. I am using CIFAR-10 Dataset From Keras Dataset
 
 
 ## Output - 30 Epocs:
